@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshwinPrabhu1812
 - 👀 I’m interested in Control theory
 - 🌱 I’m currently learning Robot operating software
-- 💞️ I’m looking to collaborate on Robotics related projects.
+- 💞️ I’m looking to collaborate on Perception-related projects.
 - 📫 How to reach me ashwinprabhu1812@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always accept cookies
